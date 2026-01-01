@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './components/ui/navbar.jsx'
 import Hero from './components/ui/Hero.jsx'
 import MagicCard from './components/ui/Magic-card.jsx'
-import Experience from './components/ui/experience.jsx'
+import Experience from './components/ui/Experience.jsx'
 import Skills from './components/ui/Skills.jsx'
 import Contact from './components/ui/Contact.jsx'
 
@@ -23,21 +23,17 @@ const App = () => {
 
         <MagicCard
         icon="💰"
-        title="Project Title"
-        description="Enrich Hair Salon is a salon booking system with
-         online payments and an admin dashboard for managing services and bookings."
+        title="movie website "
+        description="create an movie application using react and js which help to find your favorate movies ."
         tech={[
-    "React",
-    "MUI",
+    "React ",
     "Tailwind CSS",
-    "Razorpay",
-    "Nodemailer",
     "Node.js",
     "Express.js",
-    "MongoDB",
+    "js",
   ]}
-    website="#"
-  source="#"
+    website="https://movie-iota-inky.vercel.app/"
+  source="https://github.com/ayushzjzjjjzk/movie"
         />
         <MagicCard
         icon="💰"
