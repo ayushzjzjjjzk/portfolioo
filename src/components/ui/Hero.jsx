@@ -17,6 +17,7 @@ export default function HeroSection() {
             Hi, I am Ayush Singh Ramola
           </h1>
 
+
           <p className="mt-2 max-sm:mt-5 max-sm:px-3 text-base max-sm:text-sm text-center leading-6 font-inter">
             20, I break things, learn fast, and make things happen.
             Deep into code and CS; anything that pushes limits.
