@@ -54,21 +54,18 @@ const App = () => {
 
     
         <MagicCard
-        icon="💰"
+        icon=""
         title="Project Title"
         description="Enrich Hair Salon is a salon booking system with online payments and an admin dashboard for managing services and booking."
         tech={[
     "React",
-    "MUI",
+    "js",
     "Tailwind CSS",
-    "Razorpay",
-    "Nodemailer",
     "Node.js",
-    "Express.js",
-    "MongoDB",
+    
   ]}
-    website="#"
-  source="#"
+    website="https://counter-lovat-two.vercel.app/"
+  source="https://github.com/ayushzjzjjjzk/counter"
   />
        
         <MagicCard
