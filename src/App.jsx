@@ -32,31 +32,16 @@ const App = () => {
     "Express.js",
     "js",
   ]}
-    website="https://movie-iota-inky.vercel.app/"
-  source="https://github.com/ayushzjzjjjzk/movie"
-        />
-        <MagicCard
-        icon="💰"
-        title="Project Title"
-        description="Enrich Hair Salon is a salon booking system with online payments and an admin dashboard for managing services and bookings."
-        tech={[
-    "React",
-    "MUI",
-    "Tailwind CSS",
-    "Razorpay",
-    "Nodemailer",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-  ]}
-    website="#"
-  source="#"/>
+    website ="https://movie-iota-inky.vercel.app/"
+  source ="https://github.com/ayushzjzjjjzk/movie"
+      />
+       
 
     
         <MagicCard
-        icon=""
+        icon="⌛"
         title="Project Title"
-        description="Enrich Hair Salon is a salon booking system with online payments and an admin dashboard for managing services and booking."
+        description="An counter application have features to staart pause and reset ."
         tech={[
     "React",
     "js",
@@ -69,9 +54,9 @@ const App = () => {
   />
        
         <MagicCard
-        icon="💰"
-        title="Project Title"
-        description="Enrich Hair Salon is a salon booking system with online payments and an admin dashboard for managing services and booking."
+        icon="🛒"
+        title="superkicks"
+        description="application for sneakers "
         tech={[
     "React",
     "MUI",
@@ -82,8 +67,8 @@ const App = () => {
     "Express.js",
     "MongoDB",
   ]}
-    website="#"
-  source="#"
+    website="https://super-kicks-kappa.vercel.app/"
+  source="https://github.com/ayushzjzjjjzk/SuperKicks"
          />
         </div>
         </div>
