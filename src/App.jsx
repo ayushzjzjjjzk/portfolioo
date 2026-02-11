@@ -70,6 +70,21 @@ const App = () => {
     website="https://super-kicks-kappa.vercel.app/"
   source="https://github.com/ayushzjzjjjzk/SuperKicks"
          />
+
+         <MagicCard
+        icon="🎬"
+        title="chess "
+        description="chess website with game logic and UI."
+        tech={[
+    "React ",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "js",
+  ]}
+    website ="https://chess-delta-plum.vercel.app/"
+  source ="https://github.com/ayushzjzjjjzk/chess"
+      />
         </div>
         </div>
 
