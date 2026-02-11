@@ -28,7 +28,7 @@ const Input = ({ className = "", ...props }) => (
 
 const Textarea = ({ className = "", ...props }) => (
   <textarea
-    className={`w-full min-h-[120px] rounded-md border border-gray-300 bg-transparent px-3 py-2 text-sm outline-none
+    className={`w-full min-h-30 rounded-md border border-gray-300 bg-transparent px-3 py-2 text-sm outline-none
     resize-none focus:border-black transition ${className}`}
     {...props}
   />
@@ -147,7 +147,7 @@ const Contact = () => {
               />
             </div>
 
-            <Button disabled={isSending} className="bg-black hover: bg-blue-500 cursor-pointer">
+            <Button disabled={isSending} className="hover:bg-blue-500 cursor-pointer">
               {isSending ? "Sending..." : "Send message"}
             </Button>
           </form>

@@ -32,8 +32,8 @@ const App = () => {
     "Express.js",
     "js",
   ]}
-    website ="https://movie-iota-inky.vercel.app/"
-  source ="https://github.com/ayushzjzjjjzk/movie"
+    website="https://movie-iota-inky.vercel.app/"
+  source="https://github.com/ayushzjzjjzk/movie"
       />
        
 
@@ -82,8 +82,8 @@ const App = () => {
     "Express.js",
     "js",
   ]}
-    website ="https://chess-delta-plum.vercel.app/"
-  source ="https://github.com/ayushzjzjjjzk/chess"
+    website="https://chess-delta-plum.vercel.app/"
+  source="https://github.com/ayushzjzjjzk/chess"
       />
         </div>
         </div>

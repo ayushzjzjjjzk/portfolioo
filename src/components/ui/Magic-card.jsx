@@ -16,7 +16,7 @@ export default function ProjectCard({
         relative
         rounded-2xl
         border border-white/10
-        bg-gradient-to-br from-neutral-900 to-neutral-950
+        bg-linear-to-br from-neutral-900 to-neutral-950
         p-6
         text-white
         transition
