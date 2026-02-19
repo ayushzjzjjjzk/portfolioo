@@ -21,6 +21,21 @@ const App = () => {
        <div className='p-10 flex justify-center  gap-10 flex-wrap  flex-row bg-black w-full'>
         <div className='max-w-6xl mx-auto px-6 space-y-10'>
 
+           <MagicCard
+        icon="➗"
+        title="mathX"
+        description="mathX is a web application that provides a user-friendly interface for solving mathematical problems and visualizing mathematical concepts. It offers a range of features, including a powerful calculator, graphing tools, and interactive tutorials to help users understand complex mathematical concepts."
+        tech={[
+    "React ",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "js",
+  ]}
+    website="https://math-x-rouge.vercel.app/"
+  source="https://github.com/ayushzjzjjjzk/MathX"
+      />
+
         <MagicCard
         icon="💰"
         title="movie website "
