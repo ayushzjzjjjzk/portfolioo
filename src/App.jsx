@@ -36,6 +36,23 @@ const App = () => {
   source="https://github.com/ayushzjzjjjzk/MathX"
       />
 
+
+      
+           <MagicCard
+        icon="✍️"
+        title="motion"
+        description="motion is a web application that provides a user-friendly interface for solving mathematical problems and visualizing mathematical concepts. It offers a range of features, including a powerful calculator, graphing tools, and interactive tutorials to help users understand complex mathematical concepts."
+        tech={[
+    "React ",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "js",
+  ]}
+    website="https://motion-ha3wwk9cq-ayushzjzjjjzks-projects.vercel.app/"
+  source="https://github.com/ayushzjzjjjzk/motion"
+      />
+
         <MagicCard
         icon="💰"
         title="movie website "
