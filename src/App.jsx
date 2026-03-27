@@ -24,20 +24,7 @@ const App = () => {
        <div className='p-10 flex justify-center  gap-10 flex-wrap  flex-row bg-black w-full'>
         <div className='max-w-6xl mx-auto px-6 space-y-10'>
 
-        <Logicstack
-        icon="🧠"
-        title="logicstack"
-        description="logicstack is a web application that provides a user-friendly interface for solving logical problems and visualizing logical concepts. It offers a range of features, including a powerful logic solver, truth table generators, and interactive tutorials to help users understand complex logical concepts."
-        tech={[
-    "React ",
-    "Tailwind CSS",
-    "motion",
-    "js",
-    "react-router-dom"
-  ]}
-    website="https://logicstack.vercel.app/"
-  source="https://github.com/ayushzjzjjjzk/LogicStack"
-      />
+       
 
 
            <MagicCard
@@ -106,8 +93,8 @@ const App = () => {
        
         <MagicCard
         icon="🛒"
-        title="superkicks"
-        description="application for sneakers "
+        title="Logical and Reasoning"
+        description="Logical and Reasoning is a web application that provides a user-friendly interface for solving mathematical problems and visualizing mathematical concepts. It offers a range of features, including a powerful calculator, graphing tools, and interactive tutorials to help users understand complex mathematical concepts."
         tech={[
     "React",
     "MUI",
@@ -118,8 +105,8 @@ const App = () => {
     "Express.js",
     "MongoDB",
   ]}
-    website="https://super-kicks-kappa.vercel.app/"
-  source="https://github.com/ayushzjzjjjzk/SuperKicks"
+    website="https://logical-and-reasoning.vercel.app/"
+  source="https://github.com/ayushzjzjjjzk/logical-and-reasoning"
          />
 
          <MagicCard
