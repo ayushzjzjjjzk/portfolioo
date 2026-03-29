@@ -5,13 +5,17 @@ import MagicCard from './components/ui/Magic-card.jsx'
 import Experience from './components/ui/Experience.jsx'
 import Skills from './components/ui/Skills.jsx'
 import Contact from './components/ui/Contact.jsx'
-import Oneko from "./components/Oneko";
+
+import OrigamiCursor from "./components/OrigamiCursor";
+
 
 
 const App = () => {
   return (
     <div className='bg-black text-white'>
-      <Oneko />
+      
+      <OrigamiCursor />
+
       <Navbar  />
 
       <Hero />
